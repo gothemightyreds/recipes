@@ -1,0 +1,14 @@
+Ingredients:
+	whatever you like
+	tomato paste
+	pepperoni
+	mushroom
+	capsicum
+	pineapple
+	cheese
+	ham
+
+Instructions:
+	pre-heat oven to 200C
+	place pizza on middle tray
+	cook for 12 minutes
